@@ -30,4 +30,5 @@ public class Cuadrado implements Figura{
     public double calcularPerimetro() { 
         return 4*lado; 
 } 
+
 }
